@@ -1,3 +1,4 @@
+nftset=/openwrt.org/4#inet#fw4#vpn_domains
 nftset=/intel.com/4#inet#fw4#vpn_domains
 nftset=/cisco.com/4#inet#fw4#vpn_domains
 nftset=/blizzard.com/4#inet#fw4#vpn_domains
