@@ -1,3 +1,5 @@
+nftset=/rule34.pw/4#inet#fw4#vpn_domains
+nftset=/rule34scroller.com/4#inet#fw4#vpn_domains
 nftset=/.ua/4#inet#fw4#vpn_domains
 nftset=/10minutemail.com/4#inet#fw4#vpn_domains
 nftset=/1337x.to/4#inet#fw4#vpn_domains
