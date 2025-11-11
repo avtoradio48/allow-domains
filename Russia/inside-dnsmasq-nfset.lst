@@ -1,3 +1,5 @@
+nftset=/blizzard.com/4#inet#fw4#vpn_domains
+nftset=/battle.net/4#inet#fw4#vpn_domains
 nftset=/rule34.pw/4#inet#fw4#vpn_domains
 nftset=/rule34scroller.com/4#inet#fw4#vpn_domains
 nftset=/.ua/4#inet#fw4#vpn_domains
